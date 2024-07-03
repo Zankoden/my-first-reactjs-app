@@ -1,6 +1,11 @@
 function Footer(){
     return(
-        <h1>Hello there!</h1>
+        <>
+        <footer>
+            <p>&copy; {new Date().getFullYear()} Your Website Name</p>
+        </footer>
+        </>
+        
     );
 }
 
