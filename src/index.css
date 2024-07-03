@@ -1,5 +1,5 @@
 .card {
-  border: 1px solid hsla(0, 5%, 65%, 0.625);
+  border: 1px solid hsla(0, 9%, 81%, 0.625);
   border-radius: 15px;
   box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.31);
   padding: 20px;
@@ -26,3 +26,11 @@
   font-family: Arial, Helvetica, sans-serif;
   color: hsla(0, 0%, 9%, 0.927);
 }
+/* .button{
+  background-color: hsl(200, 100%, 50%);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+} */
